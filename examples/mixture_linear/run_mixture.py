@@ -4,8 +4,8 @@ Runs the linear mixture example and reproduces the main figure.
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.linear_model import Ridge
-from driftcl.bootstrap_cl import compute_control_limits
-from driftcl.monitoring import monitor_stream
+from src.drift_CL.bootstrap_cl import compute_control_limits
+from src.drift_CL.monitoring import monitor_stream
 
 # Load or generate data (placeholder)
 X = np.random.randn(2000, 5)
