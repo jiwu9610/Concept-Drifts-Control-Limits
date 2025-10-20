@@ -1,4 +1,4 @@
-```markdown
+
 # Bootstrapped Control Limits for Score-Based Concept Drift Detection
 
 This repository provides a **reproducible implementation** of the control-limit calibration method proposed in the accompanying manuscript  
@@ -166,8 +166,7 @@ If you use this code, please cite the corresponding manuscript:
 
 Released under the **MIT License** (blinded).
 
-```
 
 
 
-"
+
