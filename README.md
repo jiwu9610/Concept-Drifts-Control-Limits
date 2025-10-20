@@ -2,7 +2,8 @@
 # Bootstrapped Control Limits for Score-Based Concept Drift Detection
 
 This repository provides a **reproducible implementation** of the control-limit calibration method proposed in the accompanying manuscript  
-**“Control Limits for Concept Drift Detection Based on Score Vectors and Bootstrap Estimation” (blinded)**.
+**“Bootstrapped Control Limits for Score-Based
+Concept Drift Control Charts” (blinded)**.
 
 The implementation reproduces key empirical results from the paper — specifically, the **score-based MEWMA chart** with **nested bootstrap control limits** and **0.632-style correction** on two representative examples:
 1. **Linear mixture model** (ridge regression scores)
