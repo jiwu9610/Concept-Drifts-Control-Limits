@@ -17,8 +17,8 @@ from sklearn.neural_network import MLPRegressor
 from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import Pipeline
 
-from driftcl.bootstrap_cl import compute_control_limits
-from driftcl.monitoring import monitor_stream
+from src.drift_CL.bootstrap_cl import compute_control_limits
+from src.drift_CL.monitoring import monitor_stream
 
 # -----------------------
 # 1) Nonlinear oscillator
