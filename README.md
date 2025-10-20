@@ -159,7 +159,8 @@ This ensures compliance with *Technometrics* reproducibility policy:
 
 If you use this code, please cite the corresponding manuscript:
 
-> *“Control Limits for Concept Drift Detection Based on Score Vectors and Bootstrap Estimation” (under review).*
+> *“Bootstrapped Control Limits for Score-Based
+Concept Drift Control Charts” (under review).*
 
 ---
 
