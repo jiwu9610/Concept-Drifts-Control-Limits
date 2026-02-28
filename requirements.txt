@@ -1,0 +1,11 @@
+# Core scientific stack (required for all examples)
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+
+# Section 4.2 (nonlinear oscillator) — deep learning backend
+torch>=2.0
+
+# Section 4.1 Zhang et al. baseline (kungang_far.py)
+scikit-learn>=1.2
+pandas>=2.0
